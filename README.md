@@ -1,2 +1,2 @@
-# Opencv with Python
+# Opencv with python
 
