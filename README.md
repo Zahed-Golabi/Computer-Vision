@@ -2,3 +2,9 @@
 
 <img src="imgs/opencv.png">
 
+## Table of Contents
+
+1. Numpy and Image Basics
+2. Image basics with Opencv
+3. Image Processing
+4. Video Basics with Opencv
