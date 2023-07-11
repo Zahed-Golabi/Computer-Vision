@@ -10,3 +10,4 @@
 4. Video Basics with Opencv
 5. Object Detection with Opencv
 6. Object Tracking
+7. Deep Learning for Computer Vision
